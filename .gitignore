@@ -1,3 +1,5 @@
 .vagrant
 shared
 *.ini
+dev/venv
+*__pycache__*
