@@ -11,7 +11,7 @@ def read_config_file():
     return None
 
 def create_default_conf():
-    conf_file_path = f'{working_dir}/wedev.ini'
+    conf_file_path = f'{working_dir}/webdev.ini'
     log_file_path = f'{working_dir}/webdev.log'
     
     config = ConfigParser()
